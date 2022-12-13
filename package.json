@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/khalidalmu/Lab8-Node-1#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
